@@ -81,6 +81,11 @@
         display: none;
     }
 
+    #main_menu li a {
+        padding-top: 10px;
+        font-size: 12px;
+      }
+
     .banner_area {
         height: 400px;
       }
