@@ -212,9 +212,9 @@ body {
 
 .main_service .childservice_main {
   position: relative;
-  max-width: 610px;
+  max-width: 640px;
   margin: 10px;
-  padding: 50px auto 0 auto;
+  padding: 50px 10px 20px auto;
   margin-bottom: 80px;
   display: flex;
 }
@@ -231,8 +231,9 @@ body {
 
 .service-img {
   background-color: #e9a3a6;
-  padding: 25px;
+  padding:  35px 45px;
   border-radius: 50%;
+  width: 60%;
 }
 
 .left_servicetext_h3 {
@@ -241,6 +242,10 @@ body {
 
 .left_servicetext_h5 {
   text-align: left;
+  width: 100%;
+}
+
+.right_servicetext_h3 h3 {
   width: 100%;
 }
 
